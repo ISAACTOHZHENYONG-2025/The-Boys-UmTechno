@@ -1,6 +1,10 @@
 # The-Boys-UmTechno
 Write a draft of ur ideas here 
+
 Isaac: 
+IDEA 1 : A smart energy intelligence system for buildings.
+Sensors placed around a building detect occupancy, temperature, and power usage in real time. That data is sent to an AI that has learned the building's unique energy patterns. The moment waste is detected — like an AC running in an empty room — the system automatically fixes it, no human needed. A **live 3D dashboard** lets managers watch their building shift from wasteful to optimized, room by room, in real time.
+
 
 Honwin:
 
