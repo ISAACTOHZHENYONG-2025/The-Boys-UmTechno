@@ -1,14 +1,5 @@
 # The-Boys-UmTechno
-Write a draft of ur ideas here 
-
-Isaac: 
-IDEA 1 : A smart energy intelligence system for buildings.
-Sensors placed around a building detect occupancy, temperature, and power usage in real time. That data is sent to an AI that has learned the building's unique energy patterns. The moment waste is detected — like an AC running in an empty room — the system automatically fixes it, no human needed. A **live 3D dashboard** lets managers watch their building shift from wasteful to optimized, room by room, in real time.
-
-
-Honwin:
-
-Sri: 
+ 
 # Concept A — SejukAI
 
 **Predictive AC Retrofit for Tropical Homes**
@@ -89,42 +80,3 @@ Need a sharp answer. Probably:
 
 > *"Sensibo is designed for temperate climates with binary heat/cool modes and flat tariffs. Malaysia is 32°C year-round, AC runs 8+ hrs/day, and our tariff is tiered. The optimization problem is fundamentally different — and nobody's serving the M40/B40 segment at this price point with Bahasa Malaysia UI and TNB tariff awareness."*
 
-Sam:
-IDEA 1: Smart Energy Copilot
-AI + IoT system that:
-Detects empty rooms
-Predicts waste
-Auto shuts off energy
- Add behavior scoring system
-“Energy Score” per user/building
-Gamification leaderboard
-Covers automation + AI + behavior (3 in 1)
-------------------------------------------------------------------------------------------------------
- IDEA 2: “Energy-Aware Mobility” 
-Optimize transport + energy usage together
-Example: Route people 
-Based on: traffic ,fuel consumption, carbon impact
-Show: “Choosing this route saves 20% fuel & energy”
-Combines transport + energy
------------------------------------------------------------------------------------------------------
- IDEA 3: AI Energy Waste Detector 
-Use existing electricity data ONLY
-Detect anomalies, Predict waste patterns, Recommend actions
-Plug into existing buildings
-Example: “This office wastes RM500/month due to AC misuse”
-HIGH feasibility, Real-world deployable, Strong data/AI angle
---------------------------------------------------------------------------------------------------
- IDEA 4: Smart Campus Energy Optimizer
-Track energy usage across: lecture halls, dorms, labs
- Real-time campus map:
-Red zones = high energy waste
-Green zones = efficient
--------------------------------------------------------------------------------------------------------
- IDEA 5: “Energy Bill Shock Prevention System”
-Prevent users from getting high electricity bills
-Predict monthly bill early
-Alert user before it’s too late
- Behavioral nudges: “If you continue this usage, your bill = RM450”
-Suggest actions to reduce
-Very relatable problem
--------------------------------------------------------------------------------------------------------
